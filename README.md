@@ -37,7 +37,6 @@ The use of a third API, perhaps Aletheia API, but we chose not to because of the
 
 ## Limitations:
 1. There is missing data on some dates, typically more recent ones. Making it a good theoretical tool but less of a practical one.
-2. 
 
 ## Disclaimer:
 This is merely an experimental program and is highly inaccurate most of the time and thus, the creator does not assume responsibility for any financial decisions.
